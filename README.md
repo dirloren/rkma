@@ -22,8 +22,8 @@ Contents
 	sampling.m                  function to sample according to a prob-vector
 
 ##### Dependencies
-`example_optimize_probabilities.m` need `projsplx.m` from <http://ufdc.ufl.edu/IR00000353/>.
+`example_optimize_probabilities.m` needs `projsplx.m` from <http://ufdc.ufl.edu/IR00000353/>.
 
-`example_ct.m` need the AIRtool package <https://doi.org/10.1016/j.cam.2011.09.039>
+`example_ct.m` needs the AIRtool package <https://doi.org/10.1016/j.cam.2011.09.039>
 
 To use the writeout functionality requires `matlab2tikz` from <https://github.com/matlab2tikz/matlab2tikz>
